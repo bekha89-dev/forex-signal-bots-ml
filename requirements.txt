@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+aiohttp==3.9.3
+pandas==2.2.1
+numpy==1.26.4
+requests==2.31.0
+scikit-learn==1.4.1
+python-dotenv==1.0.1
